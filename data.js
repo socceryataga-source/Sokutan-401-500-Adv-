@@ -1,1303 +1,1403 @@
-window.QUIZ_TITLE = "速読英単語 必修編[改訂第8版] 空所補充クイズ No.301–400";
+window.QUIZ_TITLE = "速読英単語 必修編[改訂第8版] No.401–500";
 window.QUIZ_DATA = [
   {
-    "id": 301,
-    "jp": "彼は10年間<u>教授</u>をしている。",
-    "en": "He has been a (　　　) for 10 years.",
+    "id": 401,
+    "sourceNo": 1,
+    "jp": "私たちは彼を日本で最高の野球選手だと<u>評価している</u>。",
+    "en": "We (　　　) him as the best baseball player in Japan.",
     "choices": [
-      "respect",
-      "professor",
-      "performance",
-      "neighborhood"
+      "infer",
+      "export",
+      "regard",
+      "refer"
+    ],
+    "answer": 2,
+    "answerWord": "regard"
+  },
+  {
+    "id": 402,
+    "sourceNo": 2,
+    "jp": "私はそのシャツを，サイズの合ったものとなんとか<u>交換</u>できた。",
+    "en": "I managed to (　　　) the shirt for one that was the right size.",
+    "choices": [
+      "fulfill",
+      "exchange",
+      "violate",
+      "exploit"
     ],
     "answer": 1,
-    "answerWord": "professor"
+    "answerWord": "exchange"
   },
   {
-    "id": 302,
-    "jp": "私の医者は私に<u>ダイエット</u>をするよう勧めた。",
-    "en": "My doctor recommended I go on a (　　　).",
+    "id": 403,
+    "sourceNo": 3,
+    "jp": "彼は京都の歴史にとても<u>興味</u>をもっている。",
+    "en": "He has a real (　　　) in the history of Kyoto.",
     "choices": [
-      "part",
-      "praise",
-      "civilization",
-      "diet"
+      "vice",
+      "attitude",
+      "interest",
+      "metabolism"
     ],
-    "answer": 3,
-    "answerWord": "diet"
+    "answer": 2,
+    "answerWord": "interest"
   },
   {
-    "id": 303,
-    "jp": "私の父の<u>同僚</u>の1人が私たちの家を訪れた。",
-    "en": "One of my father&#x27;s (　　　) visited our house.",
+    "id": 404,
+    "sourceNo": 4,
+    "jp": "多くの人が日本を富士山とサムライに<u>関連付ける</u>。",
+    "en": "Most people (　　　) Japan with Mt. Fuji and samurai.",
     "choices": [
-      "colleagues",
-      "regulations",
-      "luggage",
-      "sympathies"
+      "associate",
+      "convert",
+      "enable",
+      "analyze"
     ],
     "answer": 0,
-    "answerWord": "colleagues"
+    "answerWord": "associate"
   },
   {
-    "id": 304,
-    "jp": "あなたのレポートには改善の<u>余地</u>はありません〔完璧です〕！",
-    "en": "There is no (　　　) for improvement in your report!",
+    "id": 405,
+    "sourceNo": 5,
+    "jp": "私はこれが私にとって最後の結婚の<u>機会</u>だと思っていた。",
+    "en": "I imagined that this was my last (　　　) for marriage.",
     "choices": [
-      "feedback",
-      "room",
-      "channel",
-      "waste"
-    ],
-    "answer": 1,
-    "answerWord": "room"
-  },
-  {
-    "id": 305,
-    "jp": "すべての<u>参加者</u>が証明書を受け取った。",
-    "en": "All (　　　) received a certificate.",
-    "choices": [
-      "furniture",
-      "confusions",
-      "participants",
-      "medicines"
-    ],
-    "answer": 2,
-    "answerWord": "participants"
-  },
-  {
-    "id": 306,
-    "jp": "マットはいつもよい<u>仲間</u>です。",
-    "en": "Matt is always good (　　　).",
-    "choices": [
-      "square",
-      "company",
-      "rule",
-      "loyalty"
-    ],
-    "answer": 1,
-    "answerWord": "company"
-  },
-  {
-    "id": 307,
-    "jp": "政府とあの会社には何の<u>関係</u>がありますか。",
-    "en": "What is the (　　　) between the government and that company?",
-    "choices": [
-      "invention",
-      "detail",
-      "relationship",
-      "reservation"
-    ],
-    "answer": 2,
-    "answerWord": "relationship"
-  },
-  {
-    "id": 308,
-    "jp": "彼らはその自動車事故がどう起きたか<u>を調査し</u>ています。",
-    "en": "They are (　　　) how the car accident happened.",
-    "choices": [
-      "rejecting",
-      "recalling",
-      "overwhelming",
-      "examining"
-    ],
-    "answer": 3,
-    "answerWord": "examining"
-  },
-  {
-    "id": 309,
-    "jp": "宇宙人が<u>存在し</u>，地球を訪れたことがあったらどうしますか。",
-    "en": "What if aliens (　　　) and have visited the earth?",
-    "choices": [
-      "hunt",
-      "focus",
-      "exist",
-      "whistle"
-    ],
-    "answer": 2,
-    "answerWord": "exist"
-  },
-  {
-    "id": 310,
-    "jp": "私たちは勤勉の<u>重要性</u>を理解しなければならない。",
-    "en": "We should understand the (　　　) of hard work.",
-    "choices": [
-      "topic",
-      "importance",
-      "retirement",
-      "settlement"
-    ],
-    "answer": 1,
-    "answerWord": "importance"
-  },
-  {
-    "id": 311,
-    "jp": "彼らの製品の<u>品質</u>は本当に高い。",
-    "en": "The (　　　) of their products is really high.",
-    "choices": [
-      "interval",
-      "quality",
-      "emergence",
-      "fungus"
-    ],
-    "answer": 1,
-    "answerWord": "quality"
-  },
-  {
-    "id": 312,
-    "jp": "その市では現在，バス用の新たな<u>燃料</u>に注目している。",
-    "en": "The city is now looking at a new kind of (　　　) for its buses.",
-    "choices": [
-      "trial",
-      "fuel",
-      "independence",
-      "opportunity"
-    ],
-    "answer": 1,
-    "answerWord": "fuel"
-  },
-  {
-    "id": 313,
-    "jp": "テクノロジーはこの20年で急速に<u>進化した</u>。",
-    "en": "Technology has (　　　) rapidly over the past 20 years.",
-    "choices": [
-      "evolved",
-      "hit",
-      "glanced",
-      "burst"
+      "chance",
+      "despair",
+      "treatment",
+      "crop"
     ],
     "answer": 0,
-    "answerWord": "evolved"
+    "answerWord": "chance"
   },
   {
-    "id": 314,
-    "jp": "彼は新しい種類のコケ<u>を発見した</u>。",
-    "en": "He (　　　) a moss of a new kind.",
+    "id": 406,
+    "sourceNo": 6,
+    "jp": "賃金は1時間<u>当たり</u>1,200円です。",
+    "en": "The wage is 1,200 yen (　　　) hour.",
     "choices": [
-      "bore",
-      "governed",
-      "discovered",
-      "produced"
+      "as",
+      "for",
+      "beneath",
+      "per"
     ],
-    "answer": 2,
-    "answerWord": "discovered"
+    "answer": 3,
+    "answerWord": "per"
   },
   {
-    "id": 315,
-    "jp": "彼に会えなかったのは<u>実に</u>残念です。",
-    "en": "It&#x27;s (　　　) unfortunate that I could not meet him.",
+    "id": 407,
+    "sourceNo": 7,
+    "jp": "私は大阪よりむしろ京都に行く方が<u>好みだ</u>〔行きたい〕。",
+    "en": "I would (　　　) to go to Kyoto rather than to Osaka.",
     "choices": [
-      "incredibly",
-      "indeed",
-      "ultimately",
-      "abroad"
+      "prefer",
+      "cultivate",
+      "justify",
+      "prohibit"
     ],
-    "answer": 1,
-    "answerWord": "indeed"
+    "answer": 0,
+    "answerWord": "prefer"
   },
   {
-    "id": 316,
-    "jp": "私は家族を養うのに十分な収入<u>を得て</u>いない。",
-    "en": "I don&#x27;t (　　　) enough money to support my family.",
+    "id": 408,
+    "sourceNo": 8,
+    "jp": "その新しい地図では点は町を<u>表している</u>。",
+    "en": "On the new maps,dots (　　　) towns.",
     "choices": [
+      "try",
+      "frustrate",
       "represent",
-      "stabilize",
-      "broaden",
-      "earn"
-    ],
-    "answer": 3,
-    "answerWord": "earn"
-  },
-  {
-    "id": 317,
-    "jp": "彼の<u>収入</u>は今年大幅に増えた。",
-    "en": "His (　　　) has risen a lot this year.",
-    "choices": [
-      "justice",
-      "income",
-      "deadline",
-      "mineral"
-    ],
-    "answer": 1,
-    "answerWord": "income"
-  },
-  {
-    "id": 318,
-    "jp": "政府は来年に増<u>税</u>を予定している。",
-    "en": "The government plans to raise (　　　) next year.",
-    "choices": [
-      "fossils",
-      "spectators",
-      "taxes",
-      "professions"
+      "divide"
     ],
     "answer": 2,
-    "answerWord": "taxes"
+    "answerWord": "represent"
   },
   {
-    "id": 319,
-    "jp": "本の<u>内容</u>は最初のページに書かれている。",
-    "en": "The (　　　) of the book are given on the first page.",
+    "id": 409,
+    "sourceNo": 9,
+    "jp": "私たちはその計画を<u>実行</u>に移した。",
+    "en": "We put the plan into (　　　).",
     "choices": [
-      "instructions",
-      "companies",
-      "contents",
-      "panels"
-    ],
-    "answer": 2,
-    "answerWord": "contents"
-  },
-  {
-    "id": 320,
-    "jp": "私の祖父はがんで<u>亡くなった</u>。",
-    "en": "My grandfather (　　　) of cancer.",
-    "choices": [
-      "died",
-      "acknowledged",
-      "inhabited",
-      "avoided"
+      "practice",
+      "prisoner",
+      "merit",
+      "cash"
     ],
     "answer": 0,
-    "answerWord": "died"
+    "answerWord": "practice"
   },
   {
-    "id": 321,
-    "jp": "<u>もっと遅い</u>電車に乗ろう。",
-    "en": "Let&#x27;s take the (　　　) train.",
+    "id": 410,
+    "sourceNo": 10,
+    "jp": "そのテーブルの大きさ<u>を測って</u>いただけますか。",
+    "en": "Could you (　　　) the size of the table?",
     "choices": [
-      "more common",
-      "faster",
-      "plainer",
-      "later"
-    ],
-    "answer": 3,
-    "answerWord": "later"
-  },
-  {
-    "id": 322,
-    "jp": "戦後，日本は科学と工学で大いに<u>進歩した</u>。",
-    "en": "Since the war Japan has (　　　) greatly in science and technology.",
-    "choices": [
-      "combined",
-      "packed",
-      "advanced",
-      "employed"
-    ],
-    "answer": 2,
-    "answerWord": "advanced"
-  },
-  {
-    "id": 323,
-    "jp": "今週末までに書類を送ること<u>が求められ</u>る。",
-    "en": "You are (　　　) to send the documents by the end of the week.",
-    "choices": [
-      "required",
-      "acquired",
-      "isolated",
-      "contradicted"
+      "measure",
+      "accelerate",
+      "include",
+      "spoil"
     ],
     "answer": 0,
-    "answerWord": "required"
+    "answerWord": "measure"
   },
   {
-    "id": 324,
-    "jp": "これらの家同士は姻戚<u>関係に</u>ある。",
-    "en": "These families are (　　　) by marriage.",
+    "id": 411,
+    "sourceNo": 11,
+    "jp": "先生は月面の模様を私たちに<u>説明した</u>。",
+    "en": "Our teacher (　　　) the surface of the moon to us.",
     "choices": [
-      "abandoned",
-      "equipped",
-      "laid",
-      "related"
-    ],
-    "answer": 3,
-    "answerWord": "related"
-  },
-  {
-    "id": 325,
-    "jp": "パズルの答えが見つからず，<u>行き詰まって</u>しまった。",
-    "en": "I was (　　　) as I couldn&#x27;t find an answer to the puzzle.",
-    "choices": [
-      "imagined",
-      "marveled",
-      "stuck",
-      "clung"
-    ],
-    "answer": 2,
-    "answerWord": "stuck"
-  },
-  {
-    "id": 326,
-    "jp": "ファストフードは人々が太りすぎる<u>主な</u>原因だ。",
-    "en": "Fast foods are the (　　　) cause of people being overweight.",
-    "choices": [
-      "influential",
-      "major",
-      "successive",
-      "legal"
+      "based",
+      "described",
+      "worshipped",
+      "distinguished"
     ],
     "answer": 1,
-    "answerWord": "major"
+    "answerWord": "described"
   },
   {
-    "id": 327,
-    "jp": "新しい<u>意見</u>はふつう伝統的な信念に疑問を投げかける。",
-    "en": "The new (　　　) usually cast doubt on traditional beliefs.",
+    "id": 412,
+    "sourceNo": 12,
+    "jp": "医師たちは健康的な生活様式と食事<u>を促進している</u>。",
+    "en": "Doctors (　　　) a healthy lifestyle and healthy diet.",
     "choices": [
-      "opinions",
-      "astronomers",
-      "stimulation",
-      "plants"
-    ],
-    "answer": 0,
-    "answerWord": "opinions"
-  },
-  {
-    "id": 328,
-    "jp": "この問題について争わないという<u>取引</u>をしましょう。",
-    "en": "Let&#x27;s make a (　　　) not to fight over this issue.",
-    "choices": [
-      "bound",
-      "cover",
-      "trouble",
-      "deal"
+      "control",
+      "curve",
+      "fry",
+      "promote"
     ],
     "answer": 3,
-    "answerWord": "deal"
+    "answerWord": "promote"
   },
   {
-    "id": 329,
-    "jp": "箱根は温泉で<u>有名</u>です。",
-    "en": "Hakone is (　　　) for its hot springs.",
+    "id": 413,
+    "sourceNo": 13,
+    "jp": "他の<u>選択</u>はない。",
+    "en": "You have no other (　　　).",
     "choices": [
-      "urban",
-      "famous",
-      "narrow",
-      "frequent"
-    ],
-    "answer": 1,
-    "answerWord": "famous"
-  },
-  {
-    "id": 330,
-    "jp": "テーブルの<u>表面</u>は埃で覆われていた。",
-    "en": "The (　　　) of the table was covered with dust.",
-    "choices": [
-      "humanity",
-      "turtle",
-      "surface",
-      "range"
+      "regulation",
+      "situation",
+      "choice",
+      "founder"
     ],
     "answer": 2,
-    "answerWord": "surface"
+    "answerWord": "choice"
   },
   {
-    "id": 331,
-    "jp": "私たちは自由に対するこの脅威をこれ以上<u>無視する</u>ことはできない。",
-    "en": "We can&#x27;t (　　　) this threat to our freedom any longer.",
+    "id": 414,
+    "sourceNo": 14,
+    "jp": "私たちには挑戦し続ける以外に<u>選択肢</u>はない。",
+    "en": "We have no (　　　) but to keep trying.",
     "choices": [
-      "ignore",
-      "smell",
-      "generate",
-      "evaluate"
+      "option",
+      "transmission",
+      "productivity",
+      "obesity"
     ],
     "answer": 0,
-    "answerWord": "ignore"
+    "answerWord": "option"
   },
   {
-    "id": 332,
-    "jp": "敗者は，人生で<u>手に入れそこなった</u>ものについて嘆いていつも過ごす。",
-    "en": "Losers spend all the time feeling sad about what they have (　　　).",
+    "id": 415,
+    "sourceNo": 15,
+    "jp": "この話は事実に<u>基づいて</u>いる。",
+    "en": "This story is (　　　) on fact.",
     "choices": [
-      "got",
-      "missed",
-      "taken",
-      "lost"
-    ],
-    "answer": 1,
-    "answerWord": "missed"
-  },
-  {
-    "id": 333,
-    "jp": "ネコは暗闇で目が見える<u>能力</u>がある。",
-    "en": "Cats have the (　　　) to see in the dark.",
-    "choices": [
-      "fascination",
-      "correction",
-      "district",
-      "ability"
-    ],
-    "answer": 3,
-    "answerWord": "ability"
-  },
-  {
-    "id": 334,
-    "jp": "洪水は作物<u>に損害を与えた</u>。",
-    "en": "The flood (　　　) the crops.",
-    "choices": [
-      "advanced",
-      "damaged",
-      "angered",
-      "targeted"
-    ],
-    "answer": 1,
-    "answerWord": "damaged"
-  },
-  {
-    "id": 335,
-    "jp": "その店ではいろいろな<u>品物</u>を売っている。",
-    "en": "They sell (　　　) of all kinds at the shop.",
-    "choices": [
-      "articles",
-      "proverbs",
-      "presentations",
-      "introductions"
-    ],
-    "answer": 0,
-    "answerWord": "articles"
-  },
-  {
-    "id": 336,
-    "jp": "彼は毎晩月<u>を観察している</u>。",
-    "en": "He (　　　) the moon every night.",
-    "choices": [
-      "observes",
-      "possesses",
-      "conducts",
-      "bathes"
-    ],
-    "answer": 0,
-    "answerWord": "observes"
-  },
-  {
-    "id": 337,
-    "jp": "彼はとても<u>活動的で</u>，あらゆる野外活動を楽しんでいる。",
-    "en": "He is very (　　　) and enjoys all kinds of outdoor activities.",
-    "choices": [
-      "simple",
-      "invisible",
-      "ready",
-      "active"
-    ],
-    "answer": 3,
-    "answerWord": "active"
-  },
-  {
-    "id": 338,
-    "jp": "彼女は警官からの質問に<u>抗議した</u>。",
-    "en": "She (　　　) to the questions by the police officer.",
-    "choices": [
-      "fitted",
-      "accounted",
-      "objected",
-      "collapsed"
+      "terrified",
+      "certified",
+      "based",
+      "contained"
     ],
     "answer": 2,
-    "answerWord": "objected"
+    "answerWord": "based"
   },
   {
-    "id": 339,
-    "jp": "その犬は突然小さな子供<u>を襲った</u>。",
-    "en": "The dog suddenly (　　　) the small child.",
+    "id": 416,
+    "sourceNo": 16,
+    "jp": "彼女は彼のコーヒー１杯の申し出<u>を受け入れた</u>。",
+    "en": "She (　　　) his offer of a cup of coffee.",
     "choices": [
-      "attacked",
-      "occupied",
-      "puzzled",
-      "condemned"
+      "accepted",
+      "skipped",
+      "prolonged",
+      "annoyed"
     ],
     "answer": 0,
-    "answerWord": "attacked"
+    "answerWord": "accepted"
   },
   {
-    "id": 340,
-    "jp": "次の<u>号</u>は4月15日に出ます。",
-    "en": "The next (　　　) will come out on April 15.",
+    "id": 417,
+    "sourceNo": 17,
+    "jp": "その病院は深刻な病気を抱えた<u>患者</u>を治療している。",
+    "en": "This hospital cares for (　　　) with serious diseases.",
     "choices": [
-      "issue",
-      "package",
-      "border",
-      "wave"
+      "patients",
+      "specialists",
+      "kingdoms",
+      "victims"
     ],
     "answer": 0,
-    "answerWord": "issue"
+    "answerWord": "patients"
   },
   {
-    "id": 341,
-    "jp": "ニューヨークは金融界の<u>中心地</u>だ。",
-    "en": "New York is the (　　　) of the financial world.",
+    "id": 418,
+    "sourceNo": 18,
+    "jp": "その男は戦争で<u>生き残った</u>兵士の1人だ。",
+    "en": "He is one of the soldiers who (　　　) the war.",
     "choices": [
-      "suggestion",
-      "instruction",
-      "fool",
-      "center"
+      "needed",
+      "organized",
+      "assumed",
+      "survived"
     ],
     "answer": 3,
-    "answerWord": "center"
+    "answerWord": "survived"
   },
   {
-    "id": 342,
-    "jp": "勉強と休養の<u>バランス</u>を正しくとることが重要だ。",
-    "en": "It is important to get the correct (　　　) between study and rest.",
+    "id": 419,
+    "sourceNo": 19,
+    "jp": "会員数は100名<u>に限定され</u>ている。",
+    "en": "The membership is (　　　) to 100.",
     "choices": [
-      "phenomenon",
-      "coincidence",
-      "pyramid",
-      "balance"
+      "limited",
+      "attributed",
+      "smelled",
+      "won"
     ],
-    "answer": 3,
-    "answerWord": "balance"
+    "answer": 0,
+    "answerWord": "limited"
   },
   {
-    "id": 343,
-    "jp": "人々は言論の<u>自由</u>を求めて闘った。",
-    "en": "People fought for the (　　　) of speech.",
+    "id": 420,
+    "sourceNo": 20,
+    "jp": "高カロリーの食べ物を減らすことで不健康の危険性<u>を下げる</u>ことができる。",
+    "en": "Cutting down on high calorie foods can (　　　) the risk of poor health.",
     "choices": [
-      "garden",
-      "freedom",
-      "detective",
-      "company"
+      "cooperate",
+      "justify",
+      "lower",
+      "evolve"
+    ],
+    "answer": 2,
+    "answerWord": "lower"
+  },
+  {
+    "id": 421,
+    "sourceNo": 21,
+    "jp": "彼は進んですべてを失う<u>危険を冒し</u>た。",
+    "en": "He was willing to (　　　) losing everything.",
+    "choices": [
+      "produce",
+      "risk",
+      "trick",
+      "hold"
     ],
     "answer": 1,
-    "answerWord": "freedom"
+    "answerWord": "risk"
   },
   {
-    "id": 344,
-    "jp": "彼の状況の<u>実態</u>が明らかになった。",
-    "en": "The (　　　) of his situation became clear to him.",
+    "id": 422,
+    "sourceNo": 22,
+    "jp": "本日，私は私の調査結果を皆さんに<u>発表します</u>。",
+    "en": "Today I am going to (　　　) to you the results of my survey.",
     "choices": [
-      "reality",
-      "compassion",
-      "utility",
-      "fence"
+      "present",
+      "lead",
+      "detach",
+      "scream"
     ],
     "answer": 0,
-    "answerWord": "reality"
+    "answerWord": "present"
   },
   {
-    "id": 345,
-    "jp": "私たちは確かにあなたの申し出<u>を受けました</u>が，承諾したわけではありません。",
-    "en": "We surely (　　　) your offer,but did not accept it.",
+    "id": 423,
+    "sourceNo": 23,
+    "jp": "台風が町を直撃したら，災害の<u>可能性</u>に直面する。",
+    "en": "We are facing a (　　　) disaster if the typhoon hits the town.",
     "choices": [
-      "received",
-      "spoiled",
-      "consulted",
+      "potential",
+      "fond",
+      "wrong",
+      "significant"
+    ],
+    "answer": 0,
+    "answerWord": "potential"
+  },
+  {
+    "id": 424,
+    "sourceNo": 24,
+    "jp": "私は先生にどの大学に行くべきか<u>助言</u>を求めた。",
+    "en": "I asked my teacher for some (　　　) on which university to go to.",
+    "choices": [
+      "link",
+      "advice",
+      "sense",
+      "saving"
+    ],
+    "answer": 1,
+    "answerWord": "advice"
+  },
+  {
+    "id": 425,
+    "sourceNo": 25,
+    "jp": "目の<u>高さ</u>になるようにそれを持ちなさい。",
+    "en": "Hold it at eye (　　　).",
+    "choices": [
+      "direction",
+      "degree",
+      "distance",
+      "level"
+    ],
+    "answer": 3,
+    "answerWord": "level"
+  },
+  {
+    "id": 426,
+    "sourceNo": 26,
+    "jp": "準備の欠如によって彼の計画は<u>失敗</u>に終わった。",
+    "en": "A lack of preparation resulted in the (　　　) of his plans.",
+    "choices": [
+      "failure",
+      "subsidy",
+      "division",
+      "standard"
+    ],
+    "answer": 0,
+    "answerWord": "failure"
+  },
+  {
+    "id": 427,
+    "sourceNo": 27,
+    "jp": "私たちの大学の学生の<u>総</u>数は増えている。",
+    "en": "The (　　　) number of students in our university has been increasing.",
+    "choices": [
+      "rural",
+      "total",
+      "cheerful",
+      "small"
+    ],
+    "answer": 1,
+    "answerWord": "total"
+  },
+  {
+    "id": 428,
+    "sourceNo": 28,
+    "jp": "ある調査は，ワクチンが開発中だと<u>発表した</u>。",
+    "en": "A study (　　　) that a vaccine was being developed.",
+    "choices": [
+      "spent",
+      "gave",
+      "reported",
+      "concerned"
+    ],
+    "answer": 2,
+    "answerWord": "reported"
+  },
+  {
+    "id": 429,
+    "sourceNo": 29,
+    "jp": "私はだれにも手伝ってもらわずに宿題<u>を終えた</u>。",
+    "en": "I (　　　) the homework without any help.",
+    "choices": [
+      "based",
+      "laughed",
+      "ran",
+      "completed"
+    ],
+    "answer": 3,
+    "answerWord": "completed"
+  },
+  {
+    "id": 430,
+    "sourceNo": 30,
+    "jp": "雨が降った<u>時のために</u>傘を持って行ってください。",
+    "en": "Take an umbrella in (　　　) it rains.",
+    "choices": [
+      "agriculture",
+      "hazard",
+      "case",
+      "budget"
+    ],
+    "answer": 2,
+    "answerWord": "case"
+  },
+  {
+    "id": 431,
+    "sourceNo": 31,
+    "jp": "<u>かなりの</u>数の学生が大学の新しい規則に反対した。",
+    "en": "A (　　　) number of students disagreed with the new rules of the university.",
+    "choices": [
+      "lively",
+      "potential",
+      "significant",
+      "criminal"
+    ],
+    "answer": 2,
+    "answerWord": "significant"
+  },
+  {
+    "id": 432,
+    "sourceNo": 32,
+    "jp": "毎日簡単な<u>運動</u>をするようにしている。",
+    "en": "I try to do some simple (　　　) every day.",
+    "choices": [
+      "delays",
+      "circuits",
+      "exercises",
+      "corporations"
+    ],
+    "answer": 2,
+    "answerWord": "exercises"
+  },
+  {
+    "id": 433,
+    "sourceNo": 33,
+    "jp": "日本の経済<u>成長</u>は非常に速かった。",
+    "en": "Japan's economic (　　　) has been very rapid.",
+    "choices": [
+      "maturity",
+      "development",
+      "achievement",
+      "option"
+    ],
+    "answer": 1,
+    "answerWord": "development"
+  },
+  {
+    "id": 434,
+    "sourceNo": 34,
+    "jp": "私はマラソンに向けて，<u>体調</u>がよい。",
+    "en": "I'm in good (　　　) for the marathon.",
+    "choices": [
+      "head",
+      "body",
+      "heart",
+      "shape"
+    ],
+    "answer": 3,
+    "answerWord": "shape"
+  },
+  {
+    "id": 435,
+    "sourceNo": 35,
+    "jp": "これまでに一人で<u>旅行した</u>ことがありますか。",
+    "en": "Have you ever (　　　) alone?",
+    "choices": [
+      "discovered",
+      "reproduced",
+      "rescued",
+      "traveled"
+    ],
+    "answer": 3,
+    "answerWord": "traveled"
+  },
+  {
+    "id": 436,
+    "sourceNo": 36,
+    "jp": "私の夢の休暇は，<u>古代</u>エジプトのピラミッドを見ることだ。",
+    "en": "My dream holiday would be to see the pyramids of (　　　) Egypt.",
+    "choices": [
+      "ancient",
+      "informal",
+      "nutritious",
+      "eager"
+    ],
+    "answer": 0,
+    "answerWord": "ancient"
+  },
+  {
+    "id": 437,
+    "sourceNo": 37,
+    "jp": "インターネットはだれにとっても便利な<u>道具</u>だと思う。",
+    "en": "I think the Internet is a useful (　　　) for everyone.",
+    "choices": [
+      "genius",
+      "tool",
+      "ancestor",
+      "rate"
+    ],
+    "answer": 1,
+    "answerWord": "tool"
+  },
+  {
+    "id": 438,
+    "sourceNo": 38,
+    "jp": "<u>現在の</u>指導者は今のところあまり人気ではない。",
+    "en": "The (　　　) leader is not very popular at the moment.",
+    "choices": [
+      "current",
+      "firm",
+      "extinct",
+      "alternative"
+    ],
+    "answer": 0,
+    "answerWord": "current"
+  },
+  {
+    "id": 439,
+    "sourceNo": 39,
+    "jp": "その数学の問題<u>を解く</u>のに何時間もかかった。",
+    "en": "It took me hours to (　　　) the math problem.",
+    "choices": [
+      "civilize",
+      "intend",
+      "remember",
+      "solve"
+    ],
+    "answer": 3,
+    "answerWord": "solve"
+  },
+  {
+    "id": 440,
+    "sourceNo": 40,
+    "jp": "<u>男子</u>用のトイレは3階にある。",
+    "en": "The restrooms for (　　　) are on the third floor.",
+    "choices": [
+      "dialogues",
+      "premises",
+      "males",
+      "females"
+    ],
+    "answer": 2,
+    "answerWord": "males"
+  },
+  {
+    "id": 441,
+    "sourceNo": 41,
+    "jp": "兵士たちの無事な<u>帰還</u>は私たちみんなを喜ばせた。",
+    "en": "The safe (　　　) of the soldiers pleased us all.",
+    "choices": [
+      "storage",
+      "impact",
+      "capacity",
+      "return"
+    ],
+    "answer": 3,
+    "answerWord": "return"
+  },
+  {
+    "id": 442,
+    "sourceNo": 42,
+    "jp": "黒い煙が煙突から<u>上がって</u>いる。",
+    "en": "Black smoke is (　　　) from the chimney.",
+    "choices": [
+      "rising",
+      "promising",
+      "illustrating",
+      "tapping"
+    ],
+    "answer": 0,
+    "answerWord": "rising"
+  },
+  {
+    "id": 443,
+    "sourceNo": 43,
+    "jp": "その飛行機はパリに定刻に<u>到着した</u>。",
+    "en": "The plane (　　　) in Paris on time.",
+    "choices": [
+      "arrived",
+      "recognized",
+      "adopted",
       "applied"
     ],
     "answer": 0,
-    "answerWord": "received"
+    "answerWord": "arrived"
   },
   {
-    "id": 346,
-    "jp": "より多くの組織が職場における性差別問題<u>に取り組み</u>始めている。",
-    "en": "A growing number of organizations are beginning to (　　　) gender issues in the workplace.",
+    "id": 444,
+    "sourceNo": 44,
+    "jp": "コーヒーの<u>におい</u>は好きだが，味は好きではない。",
+    "en": "I love the (　　　) of coffee,but I don't like the taste.",
     "choices": [
-      "discern",
-      "govern",
-      "dominate",
-      "address"
+      "strength",
+      "smell",
+      "preference",
+      "panel"
+    ],
+    "answer": 1,
+    "answerWord": "smell"
+  },
+  {
+    "id": 445,
+    "sourceNo": 45,
+    "jp": "エッセーのほとんどは，私の<u>記憶</u>から完全に消えてしまった。",
+    "en": "Most of the essays have entirely disappeared from my (　　　).",
+    "choices": [
+      "data",
+      "memory",
+      "violation",
+      "commerce"
+    ],
+    "answer": 1,
+    "answerWord": "memory"
+  },
+  {
+    "id": 446,
+    "sourceNo": 46,
+    "jp": "南の<u>地方</u>では桜が満開だ。",
+    "en": "The cherries are now in full blossom in the southern (　　　).",
+    "choices": [
+      "experts",
+      "holidays",
+      "sensitivities",
+      "regions"
     ],
     "answer": 3,
-    "answerWord": "address"
+    "answerWord": "regions"
   },
   {
-    "id": 347,
-    "jp": "今夜の講演者<u>を紹介します</u>。",
-    "en": "I would like to (　　　) our speaker tonight.",
+    "id": 447,
+    "sourceNo": 47,
+    "jp": "帰属<u>意識</u>を生み出すことは雇用者と従業員の両方にとって重要だ。",
+    "en": "Creating a (　　　) of belonging is important for both employers and employees.",
     "choices": [
-      "introduce",
-      "reduce",
-      "grant",
-      "humiliate"
+      "status",
+      "sense",
+      "period",
+      "custom"
+    ],
+    "answer": 1,
+    "answerWord": "sense"
+  },
+  {
+    "id": 448,
+    "sourceNo": 48,
+    "jp": "彼女は彼に<u>まっすぐな</u>視線を向けた。",
+    "en": "She gave him a (　　　) look.",
+    "choices": [
+      "direct",
+      "countless",
+      "distinct",
+      "positive"
     ],
     "answer": 0,
-    "answerWord": "introduce"
+    "answerWord": "direct"
   },
   {
-    "id": 348,
-    "jp": "母親は幼い子供に<u>本当のこと</u>を言うように言った。",
-    "en": "The mother told the young child to tell the (　　　).",
+    "id": 449,
+    "sourceNo": 49,
+    "jp": "あなたはスピルバーグの映画に<u>精通して</u>いますか。",
+    "en": "Are you (　　　) with the movies of Spielberg?",
     "choices": [
-      "district",
-      "dialect",
-      "rebel",
-      "truth"
+      "strict",
+      "pessimistic",
+      "contradictory",
+      "familiar"
     ],
     "answer": 3,
-    "answerWord": "truth"
+    "answerWord": "familiar"
   },
   {
-    "id": 349,
-    "jp": "私たちの学校は最近，新しいコンピューターを何台か<u>購入した</u>。",
-    "en": "Our school (　　　) some new computers recently.",
+    "id": 450,
+    "sourceNo": 50,
+    "jp": "この店は紳士服を<u>特別</u>価格で提供している。",
+    "en": "The shop has a (　　　) offer on men's clothes.",
     "choices": [
-      "accounted",
-      "departed",
-      "purchased",
-      "upset"
+      "compulsory",
+      "special",
+      "complex",
+      "ready"
     ],
-    "answer": 2,
-    "answerWord": "purchased"
+    "answer": 1,
+    "answerWord": "special"
   },
   {
-    "id": 350,
-    "jp": "彼は競泳で新記録を作り<u>そうだ</u>。",
-    "en": "It is (　　　) that he will set a new record in the swimming race.",
+    "id": 451,
+    "sourceNo": 51,
+    "jp": "初めての沖縄旅行を私は<u>覚えている</u>。",
+    "en": "I (　　　) my first trip to Okinawa.",
     "choices": [
-      "pretty",
-      "mutual",
-      "influential",
-      "likely"
+      "define",
+      "mimic",
+      "recover",
+      "remember"
     ],
     "answer": 3,
-    "answerWord": "likely"
+    "answerWord": "remember"
   },
   {
-    "id": 351,
-    "jp": "<u>意思疎通</u>は国際ビジネスにおける成功のかぎである。",
-    "en": "(　　　) is the key to success in international business.",
+    "id": 452,
+    "sourceNo": 52,
+    "jp": "彼らの会話中，沈黙の<u>瞬間</u>が何度もあった。",
+    "en": "There were (　　　) of silence during their conversation.",
     "choices": [
-      "Destination",
-      "Communication",
-      "Prosperity",
-      "Crisis"
+      "empires",
+      "moments",
+      "minorities",
+      "governments"
     ],
     "answer": 1,
-    "answerWord": "Communication"
+    "answerWord": "moments"
   },
   {
-    "id": 352,
-    "jp": "私が助けを必要としている時にミカはいつも<u>支えて</u>くれる。",
-    "en": "Mika always (　　　) me when I need help.",
+    "id": 453,
+    "sourceNo": 53,
+    "jp": "<u>公立の</u>図書館は公園のそばにある。",
+    "en": "The (　　　) library is by the park.",
     "choices": [
-      "decorates",
-      "prevents",
-      "supports",
-      "disappears"
+      "sure",
+      "solar",
+      "public",
+      "classical"
     ],
     "answer": 2,
-    "answerWord": "supports"
+    "answerWord": "public"
   },
   {
-    "id": 353,
-    "jp": "私は<u>この前の</u>夏にギリシャの古代遺跡を訪ねた。",
-    "en": "I visited the ancient monuments in Greece (　　　) summer.",
+    "id": 454,
+    "sourceNo": 54,
+    "jp": "<u>自家用</u>飛行機は言うまでもなく，車も買えない。",
+    "en": "I can't even afford a car,not to mention a (　　　) plane.",
     "choices": [
-      "endless",
-      "last",
-      "quick",
-      "external"
+      "family",
+      "public",
+      "private",
+      "prime"
     ],
-    "answer": 1,
-    "answerWord": "last"
+    "answer": 2,
+    "answerWord": "private"
   },
   {
-    "id": 354,
-    "jp": "年の最初の<u>学期</u>は一般科目を勉強する。",
-    "en": "During the first (　　　) of the year,you will study general subjects.",
+    "id": 455,
+    "sourceNo": 55,
+    "jp": "<u>現代</u>人はホモ・サピエンスに分類される。",
+    "en": "(　　　) humans are classified as Homo sapiens.",
     "choices": [
-      "substance",
-      "term",
-      "premise",
-      "establishment"
-    ],
-    "answer": 1,
-    "answerWord": "term"
-  },
-  {
-    "id": 355,
-    "jp": "私たちは専門的な助言を<u>探し求める</u>べきだと思います。",
-    "en": "I think we should (　　　) some professional advice.",
-    "choices": [
-      "polish",
-      "seek",
-      "spend",
-      "drop"
-    ],
-    "answer": 1,
-    "answerWord": "seek"
-  },
-  {
-    "id": 356,
-    "jp": "核戦争が起こったら深刻な<u>結果</u>をもたらすだろう。",
-    "en": "If a nuclear war broke out,it would have serious (　　　).",
-    "choices": [
-      "consequences",
-      "explorers",
-      "penalties",
-      "opposites"
+      "Modern",
+      "Deliberate",
+      "Cosmic",
+      "Ancient"
     ],
     "answer": 0,
-    "answerWord": "consequences"
+    "answerWord": "Modern"
   },
   {
-    "id": 357,
-    "jp": "私の先生は私に将来のために英語を一生懸命勉強する<u>ように勧めた</u>。",
-    "en": "My teacher (　　　) that I study English hard for the sake of my future.",
+    "id": 456,
+    "sourceNo": 56,
+    "jp": "このスマートフォンの最大の<u>特徴</u>はカメラです。",
+    "en": "The best (　　　) of this smartphone is its camera.",
     "choices": [
-      "recommended",
-      "dragged",
-      "posed",
-      "guarded"
+      "weather",
+      "lack",
+      "feature",
+      "competition"
     ],
-    "answer": 0,
-    "answerWord": "recommended"
+    "answer": 2,
+    "answerWord": "feature"
   },
   {
-    "id": 358,
-    "jp": "ガリレオは，地球は動いていると<u>主張した</u>。",
-    "en": "Galileo (　　　) that the earth moves.",
+    "id": 457,
+    "sourceNo": 57,
+    "jp": "試合に勝つための最善の<u>技術</u>は何ですか。",
+    "en": "What is the best (　　　) to win the game?",
     "choices": [
-      "proved",
-      "argued",
-      "swore",
-      "required"
+      "illustration",
+      "palace",
+      "technique",
+      "stomach"
+    ],
+    "answer": 2,
+    "answerWord": "technique"
+  },
+  {
+    "id": 458,
+    "sourceNo": 58,
+    "jp": "彼は川を泳いで渡<u>ろうとした</u>が，流れが強すぎた。",
+    "en": "He (　　　) to swim across the river,but the current was too strong.",
+    "choices": [
+      "immersed",
+      "attempted",
+      "emphasized",
+      "tightened"
     ],
     "answer": 1,
-    "answerWord": "argued"
+    "answerWord": "attempted"
   },
   {
-    "id": 359,
-    "jp": "その美術<u>評論家</u>は美術作品の分析方法についての本を書いた。",
-    "en": "The art (　　　) wrote a book on how to analyze art works.",
+    "id": 459,
+    "sourceNo": 59,
+    "jp": "私は先月からずっとスミス氏と<u>連絡</u>をとっている。",
+    "en": "I have been in (　　　) with Mr. Smith since last month.",
     "choices": [
-      "liar",
-      "mentor",
-      "surrounding",
-      "critic"
-    ],
-    "answer": 3,
-    "answerWord": "critic"
-  },
-  {
-    "id": 360,
-    "jp": "日本の生徒は教室を掃除する<u>責任がある</u>〔しなければならない〕。",
-    "en": "Students in Japan are (　　　) for cleaning their classrooms.",
-    "choices": [
-      "thick",
-      "costly",
-      "responsible",
-      "cautious"
+      "habitat",
+      "statue",
+      "contact",
+      "starvation"
     ],
     "answer": 2,
-    "answerWord": "responsible"
+    "answerWord": "contact"
   },
   {
-    "id": 361,
-    "jp": "小包は月曜日に<u>届く予定だ</u>。",
-    "en": "Your parcel is (　　　) on Monday.",
+    "id": 460,
+    "sourceNo": 60,
+    "jp": "彼はゴールを決めて勝利に<u>貢献した</u>。",
+    "en": "He scored a goal and (　　　) to the victory.",
     "choices": [
-      "due",
-      "false",
-      "objective",
-      "true"
-    ],
-    "answer": 0,
-    "answerWord": "due"
-  },
-  {
-    "id": 362,
-    "jp": "彼らの結婚の知らせはすぐに<u>広まった</u>。",
-    "en": "The news of their marriage (　　　) quickly.",
-    "choices": [
-      "spread",
-      "forgot",
-      "educated",
-      "revolved"
-    ],
-    "answer": 0,
-    "answerWord": "spread"
-  },
-  {
-    "id": 363,
-    "jp": "昨日いくつもの<u>闘争</u>がその町であった。",
-    "en": "There were many (　　　) in the town yesterday.",
-    "choices": [
-      "guests",
-      "conflicts",
-      "variations",
-      "scholarships"
+      "scattered",
+      "contributed",
+      "threw",
+      "spoke"
     ],
     "answer": 1,
-    "answerWord": "conflicts"
+    "answerWord": "contributed"
   },
   {
-    "id": 364,
-    "jp": "警察はついにその火事の原因<u>を特定した</u>。",
-    "en": "The police finally (　　　) the cause of the fire.",
-    "choices": [
-      "identified",
-      "exerted",
-      "banned",
-      "engaged"
-    ],
-    "answer": 0,
-    "answerWord": "identified"
-  },
-  {
-    "id": 365,
-    "jp": "私の妹はその服を着ると<u>かわいく</u>見えた。",
-    "en": "My sister looked (　　　) in that dress.",
-    "choices": [
-      "reliable",
-      "pretty",
-      "silly",
-      "missing"
-    ],
-    "answer": 1,
-    "answerWord": "pretty"
-  },
-  {
-    "id": 366,
-    "jp": "博物館までの地図<u>を描いて</u>もらえますか。",
-    "en": "Could you (　　　) a map of the way to the museum?",
-    "choices": [
-      "discourage",
-      "sit",
-      "draw",
-      "show"
-    ],
-    "answer": 2,
-    "answerWord": "draw"
-  },
-  {
-    "id": 367,
-    "jp": "この講座は初心者向けを<u>想定している</u>。",
-    "en": "This course is (　　　) for beginners.",
-    "choices": [
-      "advised",
-      "differed",
-      "killed",
-      "designed"
-    ],
-    "answer": 3,
-    "answerWord": "designed"
-  },
-  {
-    "id": 368,
-    "jp": "定期的に歯医者に行くことで，歯のトラブル<u>を防ぐ</u>ことができる。",
-    "en": "Regular visits to the dentist will (　　　) you from having problems with your teeth.",
-    "choices": [
-      "combine",
-      "prevent",
-      "remind",
-      "transform"
-    ],
-    "answer": 1,
-    "answerWord": "prevent"
-  },
-  {
-    "id": 369,
-    "jp": "この劇場ではフラッシュ撮影は<u>許可さ</u>れていません。",
-    "en": "You are not (　　　) to use a flash in this theater.",
-    "choices": [
-      "packed",
-      "allowed",
-      "deserved",
-      "counted"
-    ],
-    "answer": 1,
-    "answerWord": "allowed"
-  },
-  {
-    "id": 370,
-    "jp": "その図はネットいじめの発生の増加<u>傾向</u>を示している。",
-    "en": "The figure shows an upward (　　　) in the occurrence of cyber bullying.",
-    "choices": [
-      "warning",
-      "leadership",
-      "happening",
-      "trend"
-    ],
-    "answer": 3,
-    "answerWord": "trend"
-  },
-  {
-    "id": 371,
-    "jp": "この工程には3<u>段階</u>しかない。",
-    "en": "There are only three (　　　) to this process.",
-    "choices": [
-      "venues",
-      "affections",
-      "grades",
-      "steps"
-    ],
-    "answer": 3,
-    "answerWord": "steps"
-  },
-  {
-    "id": 372,
-    "jp": "その辞書はアメリカの出版社から<u>出版さ</u>れた。",
-    "en": "The dictionary was (　　　) by an American publisher.",
-    "choices": [
-      "published",
-      "written",
-      "edited",
-      "brought"
-    ],
-    "answer": 0,
-    "answerWord": "published"
-  },
-  {
-    "id": 373,
-    "jp": "その会社は<u>学業</u>成績を重視して人を採用してはいない。",
-    "en": "The company doesn&#x27;t hire people on the basis of their (　　　) record.",
-    "choices": [
-      "foundation",
-      "heat",
-      "consideration",
-      "academic"
-    ],
-    "answer": 3,
-    "answerWord": "academic"
-  },
-  {
-    "id": 374,
-    "jp": "私たちは田舎に住むよりも<u>都市</u>部に引っ越すことにした。",
-    "en": "We decided to move to an (　　　) area rather than live in the countryside.",
-    "choices": [
-      "official",
-      "urban",
-      "eventual",
-      "inappropriate"
-    ],
-    "answer": 1,
-    "answerWord": "urban"
-  },
-  {
-    "id": 375,
-    "jp": "二酸化<u>炭素</u>は生物が息を吐き出す時に発生する気体である。",
-    "en": "(　　　) dioxide is the gas which is produced when creatures breathe out.",
-    "choices": [
-      "Biological",
-      "Oxygen",
-      "Sulfur",
-      "Carbon"
-    ],
-    "answer": 3,
-    "answerWord": "Carbon"
-  },
-  {
-    "id": 376,
-    "jp": "今日は<u>気温</u>が非常に快適な22度だ。",
-    "en": "Today the (　　　) is a really pleasant 22 degrees.",
-    "choices": [
-      "inheritance",
-      "exploration",
-      "temperature",
-      "symptom"
-    ],
-    "answer": 2,
-    "answerWord": "temperature"
-  },
-  {
-    "id": 377,
-    "jp": "母に毎日皿洗いをする<u>と約束した</u>。",
-    "en": "I (　　　) my mother that I would wash the dishes every day.",
-    "choices": [
-      "invested",
-      "possessed",
-      "promised",
-      "instructed"
-    ],
-    "answer": 2,
-    "answerWord": "promised"
-  },
-  {
-    "id": 378,
-    "jp": "私たちは夏休みの間にその<u>計画</u>に取り組んだ。",
-    "en": "We worked on the (　　　) during the summer holiday.",
-    "choices": [
-      "peasant",
-      "assumption",
-      "project",
-      "crisis"
-    ],
-    "answer": 2,
-    "answerWord": "project"
-  },
-  {
-    "id": 379,
-    "jp": "私の祖父は庭<u>を維持する</u>のに多くの時間を使っている。",
-    "en": "My grandfather spends a lot of time (　　　) his garden.",
-    "choices": [
-      "maintaining",
-      "jogging",
-      "abandoning",
-      "mixing"
-    ],
-    "answer": 0,
-    "answerWord": "maintaining"
-  },
-  {
-    "id": 380,
-    "jp": "今日の我々の主な<u>仕事</u>は，できるだけ多くの製品を売ることだ。",
-    "en": "Our main (　　　) today is to sell as many products as we can.",
-    "choices": [
-      "index",
-      "generation",
-      "task",
-      "inspection"
-    ],
-    "answer": 2,
-    "answerWord": "task"
-  },
-  {
-    "id": 381,
-    "jp": "2018年の<u>金融</u>危機はアジアの多くの国に打撃を与えた。",
-    "en": "The (　　　) crisis of 2018 hurt many countries in Asia.",
-    "choices": [
-      "beneficial",
-      "elegant",
-      "adolescent",
-      "financial"
-    ],
-    "answer": 3,
-    "answerWord": "financial"
-  },
-  {
-    "id": 382,
-    "jp": "その学校は新しい教育の<u>手法</u>を試している。",
-    "en": "The school is trying a new (　　　) to education.",
-    "choices": [
-      "law",
-      "review",
-      "approach",
-      "recommendation"
-    ],
-    "answer": 2,
-    "answerWord": "approach"
-  },
-  {
-    "id": 383,
-    "jp": "私たちの地域は，みんながとても友好的で，快適な<u>社会</u>のように感じる。",
-    "en": "Our neighborhood feels like a comfortable (　　　) as everybody is so friendly.",
-    "choices": [
-      "creation",
-      "community",
-      "canal",
-      "silence"
-    ],
-    "answer": 1,
-    "answerWord": "community"
-  },
-  {
-    "id": 384,
-    "jp": "私たちは学校管理のための新しいシステム<u>を採用し</u>ようとしている。",
-    "en": "We are trying to (　　　) a new system of management for the school.",
-    "choices": [
-      "assess",
-      "pierce",
-      "adapt",
-      "adopt"
-    ],
-    "answer": 3,
-    "answerWord": "adopt"
-  },
-  {
-    "id": 385,
-    "jp": "彼は合衆国の<u>市民</u>になった。",
-    "en": "He became a (　　　) of the United States.",
-    "choices": [
-      "infection",
-      "head",
-      "disagreement",
-      "citizen"
-    ],
-    "answer": 3,
-    "answerWord": "citizen"
-  },
-  {
-    "id": 386,
-    "jp": "新しい先生になって，私の数学の技能は本当に<u>向上した</u>。",
-    "en": "My math skills have really (　　　) with our new teacher.",
-    "choices": [
-      "improved",
-      "arrested",
-      "divided",
-      "observed"
-    ],
-    "answer": 0,
-    "answerWord": "improved"
-  },
-  {
-    "id": 387,
-    "jp": "お金と幸せに<u>関係</u>があるとは思いません。",
-    "en": "I don&#x27;t think there is a (　　　) between money and happiness.",
-    "choices": [
-      "doubt",
-      "connection",
-      "preservation",
-      "suicide"
-    ],
-    "answer": 1,
-    "answerWord": "connection"
-  },
-  {
-    "id": 388,
-    "jp": "正直は最善の<u>策</u>という考えは正しいと思う。",
-    "en": "I believe in the idea that honesty is the best (　　　).",
-    "choices": [
-      "facility",
-      "copper",
-      "search",
-      "policy"
-    ],
-    "answer": 3,
-    "answerWord": "policy"
-  },
-  {
-    "id": 389,
-    "jp": "彼は危険に<u>気づいて</u>いない。",
-    "en": "He isn&#x27;t (　　　) of the danger.",
-    "choices": [
-      "aware",
-      "basic",
-      "democratic",
-      "destructive"
-    ],
-    "answer": 0,
-    "answerWord": "aware"
-  },
-  {
-    "id": 390,
-    "jp": "彼女はその町で高い<u>地位</u>を占めている。",
-    "en": "She enjoys a high (　　　) in the town.",
-    "choices": [
-      "opposition",
-      "past",
-      "similarity",
-      "status"
-    ],
-    "answer": 3,
-    "answerWord": "status"
-  },
-  {
-    "id": 391,
-    "jp": "ホテルはサービス料を含めて部屋代として私に200ドルを<u>請求した</u>。",
-    "en": "The hotel (　　　) me 200 dollars for the room,including service.",
-    "choices": [
-      "donated",
-      "paid",
-      "charged",
-      "refilled"
-    ],
-    "answer": 2,
-    "answerWord": "charged"
-  },
-  {
-    "id": 392,
-    "jp": "<u>一般的な</u>意見としては，監督は辞任すべきだ。",
-    "en": "The (　　　) opinion is that the manager should resign.",
-    "choices": [
-      "furious",
-      "general",
-      "nasty",
-      "active"
-    ],
-    "answer": 1,
-    "answerWord": "general"
-  },
-  {
-    "id": 393,
-    "jp": "その家が取り壊されたこと<u>に気づか</u>なかった。",
-    "en": "I didn&#x27;t (　　　) that the house had been knocked down.",
-    "choices": [
-      "categorize",
-      "notice",
-      "deprive",
-      "frighten"
-    ],
-    "answer": 1,
-    "answerWord": "notice"
-  },
-  {
-    "id": 394,
-    "jp": "スタッフをあと2人<u>雇う</u>必要がある。",
-    "en": "We need to (　　　) two more members of staff.",
-    "choices": [
-      "explain",
-      "resist",
-      "hire",
-      "impress"
-    ],
-    "answer": 2,
-    "answerWord": "hire"
-  },
-  {
-    "id": 395,
-    "jp": "彼は目標を<u>達成する</u>ことができるだろうか。",
-    "en": "I wonder if he can (　　　) his goals.",
-    "choices": [
-      "wrap",
-      "seem",
-      "achieve",
-      "reform"
-    ],
-    "answer": 2,
-    "answerWord": "achieve"
-  },
-  {
-    "id": 396,
-    "jp": "彼女は多くの会員にデータ<u>を提供した</u>。",
-    "en": "She (　　　) data for many of the members.",
-    "choices": [
-      "amused",
-      "employed",
-      "provided",
-      "lived"
-    ],
-    "answer": 2,
-    "answerWord": "provided"
-  },
-  {
-    "id": 397,
-    "jp": "留学することで，異なる文化を体験する素晴らしい<u>機会</u>が得られる。",
-    "en": "Studying abroad gives you a great (　　　) to experience a different culture.",
-    "choices": [
-      "departure",
-      "finance",
-      "attention",
-      "opportunity"
-    ],
-    "answer": 3,
-    "answerWord": "opportunity"
-  },
-  {
-    "id": 398,
-    "jp": "彼女は私の質問に<u>答え</u>なかった。",
-    "en": "She didn&#x27;t (　　　) to my question.",
+    "id": 461,
+    "sourceNo": 61,
+    "jp": "私は駅のかなり<u>近くに</u>住んでいます。",
+    "en": "I live quite (　　　) to the station.",
     "choices": [
       "close",
-      "focus",
-      "respond",
-      "govern"
+      "forth",
+      "frequently",
+      "originally"
     ],
-    "answer": 2,
-    "answerWord": "respond"
+    "answer": 0,
+    "answerWord": "close"
   },
   {
-    "id": 399,
-    "jp": "彼はいつも会議の前にテーブル<u>をきれいにする</u>。",
-    "en": "He always (　　　) the table before the meeting.",
+    "id": 462,
+    "sourceNo": 62,
+    "jp": "私には<u>頼る</u>べき友達が何人かいます。",
+    "en": "I have some friends to (　　　) on.",
     "choices": [
-      "moves",
-      "runs",
-      "cleans",
-      "isolates"
+      "rely",
+      "confront",
+      "give",
+      "die"
     ],
-    "answer": 2,
-    "answerWord": "cleans"
+    "answer": 0,
+    "answerWord": "rely"
   },
   {
-    "id": 400,
-    "jp": "この本はどのようにゼロという<u>概念</u>が発見されたかを説明している。",
-    "en": "This book explains how the (　　　) of zero was discovered.",
+    "id": 463,
+    "sourceNo": 63,
+    "jp": "近年の研究はその理論には例外があること<u>を明らかにした</u>。",
+    "en": "Recent research has (　　　) that there are some exceptions to the theory.",
     "choices": [
-      "attribute",
-      "concept",
-      "insight",
-      "ambition"
+      "erected",
+      "amazed",
+      "revealed",
+      "admitted"
+    ],
+    "answer": 2,
+    "answerWord": "revealed"
+  },
+  {
+    "id": 464,
+    "sourceNo": 64,
+    "jp": "今日では製紙<u>産業</u>が発達した。",
+    "en": "Today the paper (　　　) has developed.",
+    "choices": [
+      "distribution",
+      "industry",
+      "ocean",
+      "fever"
     ],
     "answer": 1,
-    "answerWord": "concept"
+    "answerWord": "industry"
+  },
+  {
+    "id": 465,
+    "sourceNo": 65,
+    "jp": "彼は劇の<u>中心的な</u>人物の1人だ。",
+    "en": "He is one of the (　　　) figures of the drama.",
+    "choices": [
+      "prominent",
+      "supportive",
+      "desperate",
+      "central"
+    ],
+    "answer": 3,
+    "answerWord": "central"
+  },
+  {
+    "id": 466,
+    "sourceNo": 66,
+    "jp": "インターネット上では自分の<u>個人</u>情報に気をつけてください。",
+    "en": "Be careful with your (　　　) information on the Internet.",
+    "choices": [
+      "ridiculous",
+      "personal",
+      "countless",
+      "juvenile"
+    ],
+    "answer": 1,
+    "answerWord": "personal"
+  },
+  {
+    "id": 467,
+    "sourceNo": 67,
+    "jp": "彼らは英語学習において，ずいぶん<u>進歩</u>した。",
+    "en": "They made a lot of (　　　) in learning English.",
+    "choices": [
+      "congress",
+      "allowance",
+      "observation",
+      "progress"
+    ],
+    "answer": 3,
+    "answerWord": "progress"
+  },
+  {
+    "id": 468,
+    "sourceNo": 68,
+    "jp": "都会に住む<u>利点</u>のひとつは便利な地下鉄網だ。",
+    "en": "One (　　　) of living in the city is the convenient subway network.",
+    "choices": [
+      "theory",
+      "violence",
+      "advertisement",
+      "advantage"
+    ],
+    "answer": 3,
+    "answerWord": "advantage"
+  },
+  {
+    "id": 469,
+    "sourceNo": 69,
+    "jp": "このパスワードを使うとソフトウェアに<u>アクセスする</u>ことができます。",
+    "en": "You can (　　　) the software with this password.",
+    "choices": [
+      "prove",
+      "access",
+      "apologize",
+      "wake"
+    ],
+    "answer": 1,
+    "answerWord": "access"
+  },
+  {
+    "id": 470,
+    "sourceNo": 70,
+    "jp": "負けたけれども，私たちは<u>よい</u>点を見るべきだ。",
+    "en": "Even though we lost,we should look at the (　　　) points.",
+    "choices": [
+      "positive",
+      "ugly",
+      "online",
+      "accurate"
+    ],
+    "answer": 0,
+    "answerWord": "positive"
+  },
+  {
+    "id": 471,
+    "sourceNo": 71,
+    "jp": "彼はテストを受けたが，その結果は<u>悪か</u>った。",
+    "en": "He took the test,but the result was (　　　) .",
+    "choices": [
+      "supportive",
+      "well-known",
+      "precious",
+      "negative"
+    ],
+    "answer": 3,
+    "answerWord": "negative"
+  },
+  {
+    "id": 472,
+    "sourceNo": 72,
+    "jp": "私たちは，新しい店を建てる十分な<u>資金</u>を持っていない。",
+    "en": "We don't have enough (　　　) to build a new shop.",
+    "choices": [
+      "fares",
+      "substitutes",
+      "examples",
+      "funds"
+    ],
+    "answer": 3,
+    "answerWord": "funds"
+  },
+  {
+    "id": 473,
+    "sourceNo": 73,
+    "jp": "ロボットが人間に<u>取って代わる</u>ことができると考える人はほとんどいない。",
+    "en": "Few people think that a robot can (　　　) a human being.",
+    "choices": [
+      "replace",
+      "match",
+      "govern",
+      "obey"
+    ],
+    "answer": 0,
+    "answerWord": "replace"
+  },
+  {
+    "id": 474,
+    "sourceNo": 74,
+    "jp": "あなたは風邪を<u>引きやすい</u>ですか。",
+    "en": "Are you (　　　) to colds?",
+    "choices": [
+      "subject",
+      "object",
+      "prompt",
+      "ready"
+    ],
+    "answer": 0,
+    "answerWord": "subject"
+  },
+  {
+    "id": 475,
+    "sourceNo": 75,
+    "jp": "私たちはその問題に取り組むために<u>目新しい</u>手法を採用した。",
+    "en": "We adopted a (　　　) approach to tackle the problem.",
+    "choices": [
+      "novel",
+      "messy",
+      "terminal",
+      "favorite"
+    ],
+    "answer": 0,
+    "answerWord": "novel"
+  },
+  {
+    "id": 476,
+    "sourceNo": 76,
+    "jp": "彼は両手で顔<u>をおおった</u>。",
+    "en": "He (　　　) his face with his hands.",
+    "choices": [
+      "created",
+      "bowed",
+      "floated",
+      "covered"
+    ],
+    "answer": 3,
+    "answerWord": "covered"
+  },
+  {
+    "id": 477,
+    "sourceNo": 77,
+    "jp": "私はこの書類を25部<u>印刷する</u>必要がある。",
+    "en": "I need to (　　　) 25 copies of this document.",
+    "choices": [
+      "afford",
+      "design",
+      "print",
+      "suppose"
+    ],
+    "answer": 2,
+    "answerWord": "print"
+  },
+  {
+    "id": 478,
+    "sourceNo": 78,
+    "jp": "その新しい法律は<u>報道</u>の自由を制限するかもしれない。",
+    "en": "The new law might limit freedom of (　　　).",
+    "choices": [
+      "religion",
+      "generosity",
+      "press",
+      "glimpse"
+    ],
+    "answer": 2,
+    "answerWord": "press"
+  },
+  {
+    "id": 479,
+    "sourceNo": 79,
+    "jp": "自然の<u>成り行き</u>に任せなさい。",
+    "en": "Let things take their (　　　).",
+    "choices": [
+      "performance",
+      "glory",
+      "tune",
+      "course"
+    ],
+    "answer": 3,
+    "answerWord": "course"
+  },
+  {
+    "id": 480,
+    "sourceNo": 80,
+    "jp": "今日私たちはどんなトピック<u>について話し合う</u>のですか。",
+    "en": "What topic will we (　　　) today?",
+    "choices": [
+      "approve",
+      "blame",
+      "apologize",
+      "discuss"
+    ],
+    "answer": 3,
+    "answerWord": "discuss"
+  },
+  {
+    "id": 481,
+    "sourceNo": 81,
+    "jp": "私はその問題について決定を下す前に<u>さらに</u>調査することに決めた。",
+    "en": "I decided to research (　　　) before making a decision on that matter.",
+    "choices": [
+      "further",
+      "overseas",
+      "appropriately",
+      "upstairs"
+    ],
+    "answer": 0,
+    "answerWord": "further"
+  },
+  {
+    "id": 482,
+    "sourceNo": 82,
+    "jp": "彼は映画界で素晴らしい<u>キャリア</u>を積んだ。",
+    "en": "He had a great (　　　) in the movie industry.",
+    "choices": [
+      "form",
+      "principle",
+      "rating",
+      "career"
+    ],
+    "answer": 3,
+    "answerWord": "career"
+  },
+  {
+    "id": 483,
+    "sourceNo": 83,
+    "jp": "私は老人の手を取って彼の座席へと<u>案内した</u>。",
+    "en": "I (　　　) an old man to his seat by the hand.",
+    "choices": [
+      "founded",
+      "stared",
+      "led",
+      "attributed"
+    ],
+    "answer": 2,
+    "answerWord": "led"
+  },
+  {
+    "id": 484,
+    "sourceNo": 84,
+    "jp": "<u>外</u>はとても寒いので温かいコーヒーが飲みたい。",
+    "en": "I want some hot coffee because it is very cold (　　　).",
+    "choices": [
+      "almost",
+      "outside",
+      "accordingly",
+      "even"
+    ],
+    "answer": 1,
+    "answerWord": "outside"
+  },
+  {
+    "id": 485,
+    "sourceNo": 85,
+    "jp": "彼は<u>群衆</u>の中に姿を消した。",
+    "en": "He disappeared into the (　　　).",
+    "choices": [
+      "crowd",
+      "basement",
+      "health",
+      "fossil"
+    ],
+    "answer": 0,
+    "answerWord": "crowd"
+  },
+  {
+    "id": 486,
+    "sourceNo": 86,
+    "jp": "ラッシュアワーの電車で移動するの<u>は我慢</u>できない。",
+    "en": "I can't (　　　) traveling on rush hour trains.",
+    "choices": [
+      "stand",
+      "grow",
+      "hire",
+      "offer"
+    ],
+    "answer": 0,
+    "answerWord": "stand"
+  },
+  {
+    "id": 487,
+    "sourceNo": 87,
+    "jp": "来週お会いできるの<u>を楽しみにして</u>います。",
+    "en": "I look (　　　) to seeing you next week.",
+    "choices": [
+      "forward",
+      "meanwhile",
+      "instead",
+      "exceptionally"
+    ],
+    "answer": 0,
+    "answerWord": "forward"
+  },
+  {
+    "id": 488,
+    "sourceNo": 88,
+    "jp": "あのサッカークラブは1893年に<u>設立さ</u>れた。",
+    "en": "That football club was (　　　) in 1893.",
+    "choices": [
+      "established",
+      "involved",
+      "engaged",
+      "wanted"
+    ],
+    "answer": 0,
+    "answerWord": "established"
+  },
+  {
+    "id": 489,
+    "sourceNo": 89,
+    "jp": "最も大きい飛行機は400人の<u>乗客</u>を乗せることができる。",
+    "en": "The largest airplanes can hold up to 400 (　　　).",
+    "choices": [
+      "families",
+      "passengers",
+      "impressions",
+      "factors"
+    ],
+    "answer": 1,
+    "answerWord": "passengers"
+  },
+  {
+    "id": 490,
+    "sourceNo": 90,
+    "jp": "彼女はクモを本当に<u>怖がって</u>いる。",
+    "en": "She is really (　　　) of spiders.",
+    "choices": [
+      "afraid",
+      "certain",
+      "conspicuous",
+      "fascinating"
+    ],
+    "answer": 0,
+    "answerWord": "afraid"
+  },
+  {
+    "id": 491,
+    "sourceNo": 91,
+    "jp": "私は会議<u>に出席する</u>ために京都へ行った。",
+    "en": "I went to Kyoto in order to (　　　) the meeting.",
+    "choices": [
+      "attend",
+      "illustrate",
+      "deserve",
+      "evaluate"
+    ],
+    "answer": 0,
+    "answerWord": "attend"
+  },
+  {
+    "id": 492,
+    "sourceNo": 92,
+    "jp": "ここの夏はとても暑い。<u>一方</u>，冬はとても寒い。",
+    "en": "Summer is very hot here. In (　　　),winter is very cold.",
+    "choices": [
+      "specialization",
+      "contrast",
+      "communist",
+      "justice"
+    ],
+    "answer": 1,
+    "answerWord": "contrast"
+  },
+  {
+    "id": 493,
+    "sourceNo": 93,
+    "jp": "私は東京に住む<u>心構えができて</u>いない。",
+    "en": "I'm not (　　　) to live in Tokyo.",
+    "choices": [
+      "battled",
+      "seemed",
+      "blessed",
+      "prepared"
+    ],
+    "answer": 3,
+    "answerWord": "prepared"
+  },
+  {
+    "id": 494,
+    "sourceNo": 94,
+    "jp": "絵文字は携帯メールで感情<u>を表現する</u>のに便利だ。",
+    "en": "Emojis are useful for (　　　) emotions in text messages.",
+    "choices": [
+      "displaying",
+      "enduring",
+      "counseling",
+      "diagnosing"
+    ],
+    "answer": 0,
+    "answerWord": "displaying"
+  },
+  {
+    "id": 495,
+    "sourceNo": 95,
+    "jp": "その黒いものを<u>除いて</u>それらすべてを買います。",
+    "en": "I will buy them all (　　　) the black one.",
+    "choices": [
+      "except",
+      "worth",
+      "across",
+      "regarding"
+    ],
+    "answer": 0,
+    "answerWord": "except"
+  },
+  {
+    "id": 496,
+    "sourceNo": 96,
+    "jp": "私は1日3回その<u>薬</u>を飲まなければならない。",
+    "en": "I have to take the (　　　) three times a day.",
+    "choices": [
+      "medicine",
+      "qualification",
+      "space",
+      "photography"
+    ],
+    "answer": 0,
+    "answerWord": "medicine"
+  },
+  {
+    "id": 497,
+    "sourceNo": 97,
+    "jp": "その<u>革命</u>について何か知っていますか。",
+    "en": "Do you know anything about the (　　　)?",
+    "choices": [
+      "revolution",
+      "globe",
+      "schedule",
+      "gene"
+    ],
+    "answer": 0,
+    "answerWord": "revolution"
+  },
+  {
+    "id": 498,
+    "sourceNo": 98,
+    "jp": "この会社の<u>従業員</u>への福利厚生は非常によい。",
+    "en": "The benefits for (　　　) of this company are very good.",
+    "choices": [
+      "characters",
+      "inhabitants",
+      "powers",
+      "employees"
+    ],
+    "answer": 3,
+    "answerWord": "employees"
+  },
+  {
+    "id": 499,
+    "sourceNo": 99,
+    "jp": "その新しいデザインは<u>思っていた</u>よりずっといい。",
+    "en": "The new design is much better than I (　　　).",
+    "choices": [
+      "deprived",
+      "harnessed",
+      "introduced",
+      "expected"
+    ],
+    "answer": 3,
+    "answerWord": "expected"
+  },
+  {
+    "id": 500,
+    "sourceNo": 100,
+    "jp": "<u>世界</u>市場はこの状況を注視している。",
+    "en": "(　　　) markets are watching the situation closely.",
+    "choices": [
+      "Geographical",
+      "Particular",
+      "Global",
+      "Crucial"
+    ],
+    "answer": 2,
+    "answerWord": "Global"
   }
 ];

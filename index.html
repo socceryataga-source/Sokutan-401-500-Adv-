@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>速読英単語 空所補充クイズ No.301–400</title>
+  <title>速読英単語 空所補充クイズ No.401–500</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
@@ -11,7 +11,7 @@
     <header class="site-header">
       <div class="brand-block">
         <div class="eyebrow">Sokutan Practice</div>
-        <h1 id="appTitle">速読英単語 必修編[改訂第8版] No.301–400</h1>
+        <h1 id="appTitle">速読英単語 必修編[改訂第8版] No.401–500</h1>
         <p class="subtitle">日本語を手がかりに、英文の空所に入る語を選びましょう。</p>
       </div>
       <div class="header-badge">4択 / 自動採点</div>
@@ -20,20 +20,20 @@
       <section id="menuScreen" class="card menu-card">
         <h2>出題設定</h2>
         <div class="settings-grid">
-          <label class="field"><span>開始番号</span><input id="startNo" type="number" min="301" max="400" value="301" /></label>
-          <label class="field"><span>終了番号</span><input id="endNo" type="number" min="301" max="400" value="400" /></label>
+          <label class="field"><span>開始番号</span><input id="startNo" type="text" inputmode="numeric" pattern="[0-9]*" autocomplete="off" value="401" aria-label="開始番号" /></label>
+          <label class="field"><span>終了番号</span><input id="endNo" type="text" inputmode="numeric" pattern="[0-9]*" autocomplete="off" value="500" aria-label="終了番号" /></label>
         </div>
         <div class="mode-box" role="radiogroup" aria-label="出題順">
           <label class="mode-option selected"><input type="radio" name="mode" value="ordered" checked /><span>順番通り</span></label>
           <label class="mode-option"><input type="radio" name="mode" value="random" /><span>ランダム</span></label>
         </div>
-        <p id="rangeInfo" class="range-info">301〜400の100問を出題します。</p>
+        <p id="rangeInfo" class="range-info">401〜500の100問を出題します。</p>
         <button id="startBtn" class="primary-btn">Start</button>
       </section>
       <section id="quizScreen" class="card quiz-card hidden">
         <div class="quiz-topbar">
           <div><div id="progressText" class="progress-text">1 / 100</div><div class="progress-track"><div id="progressFill" class="progress-fill"></div></div></div>
-          <button id="backMenuBtn" class="ghost-btn">メニューに戻る</button>
+          <div class="quiz-nav-actions"><button id="prevBtn" class="ghost-btn prev-btn">← 前の問題へ</button><button id="backMenuBtn" class="ghost-btn">メニューに戻る</button></div>
         </div>
         <div class="question-number" id="questionNumber">No. 1</div>
         <div id="jpText" class="jp-text"></div>
